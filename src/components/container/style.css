@@ -7,6 +7,18 @@
 
 .color-picker-container {
   text-align: center;
+  display: inline;
+  color: white;
+}
+
+.brushsize-container {
+  display: inline;
+  color: white;
+  margin-left: 12px;
+}
+
+.tools-bar {
+  text-align: center;
 }
 
 .board-container {
@@ -15,4 +27,9 @@
   margin: auto;
   margin-top: 1%;
   background-color: white;
+}
+
+.select {
+  padding: 5;
+  margin-top: 30;
 }
